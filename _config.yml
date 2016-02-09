@@ -1,0 +1,28 @@
+name: Om Sai
+favicon: null
+layout_spectrum: 0.848007885273546
+typography_spectrum: 0.7167396701406687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15043747099116445
+  lightness: 0.12421610997989774
+  saturation: 0.668121304595843
+  rhythmicContrast: 0.3370160988997668
+purpose: []

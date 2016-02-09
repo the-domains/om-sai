@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Om Sai]]></title>
         <description><![CDATA[Om Sai]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/om-sai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:59:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 20:19:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/om-sai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9488faf9-dab4-46a3-a9d4-e49376191640.jpg">]]></description>
+            <link>https://thegrid.ai/om-sai/1800b129-b2ca-435e-9a0f-93f3a527abc1/index.html</link>
+            <guid isPermaLink="false">1800b129-b2ca-435e-9a0f-93f3a527abc1</guid>
+            <pubDate>Tue, 09 Feb 2016 20:18:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We treat Gravel like Diamond]]></title>
             <description><![CDATA[<article><h1>We treat Gravel like Diamond</h1><p>Since the beginning of Om Sai metal in 1995, we
@@ -15,8 +22,8 @@ We believe if you treat some work as small, you are
 bound to always stay small. That’s the reason we put
 extreme precision in all our products, and never ever
 given a product that does not cross our quality
-standards in 20+ years of our existence.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9336737c-0fee-421f-a5a5-e4370a3c3f43.jpg"></article>]]></description>
-            <link>undefinedwe-treat-gravel-like-diamond/index.html</link>
+standards in 20+ years of our existence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de777d3334d9d8265d6ee911bffdd63747019758.jpg"></article>]]></description>
+            <link>https://thegrid.ai/om-sai/we-treat-gravel-like-diamond/index.html</link>
             <guid isPermaLink="false">4e0cec50-656d-4a6c-96cd-f9ce957245d3</guid>
             <pubDate>Tue, 09 Feb 2016 19:58:45 GMT</pubDate>
         </item>
